@@ -14,6 +14,8 @@ _Basic_
 4 * M4 Tapped Hobbed Bolt - http://www.ebay.com/itm/Hobbed-bolt-M8-for-Wade-reloaded-extruder-prusa-mendel-reprap-30mm-distance-/160893919480?pt=LH_DefaultDomain_0&hash=item25760660f8
 2 * 0.5mm, 3mm, Hexagon Nozzles - http://www.reprapdiscount.com/hotends/70-hexagon-nozzle.html#/nozzle_size-0_5mm/filament-3mm
 
+2 * Half-Height NEMA17 Stepper - https://www.lulzbot.com/products/half-height-nema-17-stepper-motor OR http://seemecnc.com/collections/parts-accessories/products/nema-17-short-can-stepper-motor
+
 -Blower-
 2 * https://www.sparkfun.com/products/11270
 2 * 5ft, http://www.mcmaster.com/#5236k98/=zqj0s2 OR http://www.mcmaster.com/#51135k67/=zqizyp
