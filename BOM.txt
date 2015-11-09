@@ -6,9 +6,9 @@ _Basic_
 1 * Normal IF needed for Merlin Hotend - https://www.lulzbot.com/products/lulzbot-taz-single-extruder-tool-head-v2
 
 -Bowden-
-1 * Bowden Tube & Pushfits - http://www.reprapdiscount.com/home/76-bowden-tube-pushfits.html
-2 * Groove Mount Adaptor - 3mm, http://www.filastruder.com/products/groove-mount-bowden-adaptor
-1 * Extra Groove Mount Plate - http://www.ebay.com/itm/like/181502313681?ul_noapp=true&chn=ps&lpid=82
+2 * Bowden Tube & Pushfits - http://www.reprapdiscount.com/home/76-bowden-tube-pushfits.html
+4 * Groove Mount Adaptor - 3mm, http://www.filastruder.com/products/groove-mount-bowden-adaptor
+2 * Extra Groove Mount Plate - http://www.ebay.com/itm/like/181502313681?ul_noapp=true&chn=ps&lpid=82
 
 -Customization-
 4 * M4 Tapped Hobbed Bolt - http://www.ebay.com/itm/Hobbed-bolt-M8-for-Wade-reloaded-extruder-prusa-mendel-reprap-30mm-distance-/160893919480?pt=LH_DefaultDomain_0&hash=item25760660f8
