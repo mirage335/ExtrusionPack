@@ -14,9 +14,11 @@ _Basic_
 4 * M4 Tapped Hobbed Bolt - http://www.ebay.com/itm/Hobbed-bolt-M8-for-Wade-reloaded-extruder-prusa-mendel-reprap-30mm-distance-/160893919480?pt=LH_DefaultDomain_0&hash=item25760660f8
 2 * 0.5mm, 3mm, Hexagon Nozzles - http://www.reprapdiscount.com/hotends/70-hexagon-nozzle.html#/nozzle_size-0_5mm/filament-3mm
 
--Cooling-
+-Blower-
 2 * https://www.sparkfun.com/products/11270
+2 * 5ft, http://www.mcmaster.com/#5236k98/=zqj0s2 OR http://www.mcmaster.com/#51135k67/=zqizyp
 
+-StepperSink-
 1 * http://www.amazon.com/Pieces-Aluminum-Cooling-Cooler-40mmx40mmx11mm/dp/B00SWOHI8S/ref=sr_1_3?ie=UTF8&qid=1447049307&sr=8-3&keywords=heatsink+40mm
 
 2 * http://www.amazon.com/30mm-25mm-Heatsink-Dissipate-Cooling/dp/B008OTKW3E/ref=sr_1_10?ie=UTF8&qid=1447049328&sr=8-10&keywords=heatsink+30mm
@@ -25,3 +27,5 @@ _Basic_
 
 3 * http://www.amazon.com/Video-Graphics-Cooler-Cooling-Heatsink/dp/B00EZJZFDE/ref=sr_1_1?ie=UTF8&qid=1447049296&sr=8-1&keywords=vga+heatsink+40mm
 
+-HotendSink-
+4 * http://www.newegg.com/Product/Product.aspx?Item=9SIA6RP34Y2863&cm_re=20mm_fan-_-9SIA6RP34Y2863-_-Product
