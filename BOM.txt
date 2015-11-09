@@ -1,0 +1,18 @@
+_Basic_
+
+-Extruders-
+1 * Flexystruder - https://www.lulzbot.com/products/lulzbot-taz-flexystruder-tool-head-v2
+2 * Normal - https://www.lulzbot.com/products/lulzbot-taz-single-extruder-tool-head-v2
+1 * Normal IF needed for Merlin Hotend - https://www.lulzbot.com/products/lulzbot-taz-single-extruder-tool-head-v2
+
+-Bowden-
+1 * Bowden Tube & Pushfits - http://www.reprapdiscount.com/home/76-bowden-tube-pushfits.html
+2 * Groove Mount Adaptor - 3mm, http://www.filastruder.com/products/groove-mount-bowden-adaptor
+1 * Extra Groove Mount Plate - http://www.ebay.com/itm/like/181502313681?ul_noapp=true&chn=ps&lpid=82
+
+-Customization-
+4 * M4 Tapped Hobbed Bolt - http://www.ebay.com/itm/Hobbed-bolt-M8-for-Wade-reloaded-extruder-prusa-mendel-reprap-30mm-distance-/160893919480?pt=LH_DefaultDomain_0&hash=item25760660f8
+2 * 0.5mm, 3mm, Hexagon Nozzles - http://www.reprapdiscount.com/hotends/70-hexagon-nozzle.html#/nozzle_size-0_5mm/filament-3mm
+
+-Cooling-
+2 * https://www.sparkfun.com/products/11270

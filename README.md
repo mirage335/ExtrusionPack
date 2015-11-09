@@ -4,25 +4,18 @@ See license.txt for ExtrusionPack license conditions.
 
 mirage335.member.hacdc.org
 
-Extruder mounting hardware for Taz_Mega, other OpenBuilds machines, and any other machine which can accept a metal bracket. Specifically designed to accomodate LulzBot brand Gregs/Wade extruder derivatives with hexagon or merlin hotends.
+Extruder mounting hardware for Taz_Mega, other OpenBuilds machines, and any other machine which can accept a metal bracket. Specifically designed to accomodate LulzBot brand Gregs/Wade extruder derivatives with Hexagon or Merlin hotends.
 
 Three extruders are supported per pack. Recommended configuration is as follows.
 
-Hard materials.		1 * Gregs/Wade Mini Variant, Hexagon, 0.4mm nozzle
-Exotic materials.	1 * FlexyStruder, Hexagon, 0.4mm nozzle
-Support/Infill.		1 * Gregs/Wade Mini Variant, Hexagon, 1mm nozzle (manually drilled)
+Hard materials.		1 * Gregs/Wade LulzBot Variant, Hexagon, 0.35mm nozzle
+Exotic materials.	1 * FlexyStruder, Hexagon, 0.5mm nozzle
+Support/Infill.		1 * Gregs/Wade LulzBot Variant, Hexagon, 1mm nozzle (manually drilled)
 
-Tricolor/Precision.	3 * Gregs/Wade Mini Variant, Merlin, 0.2mm nozzle
+Precision.		1 * Gregs/Wade LulzBot Variant, Merlin, 0.2mm nozzle
 
 #Electronics
 Duet/Duex electronics with PatchRap strongly recommended.
-
-#Sources
-Off the shelf hardware may be obtained from AlephObjects/LulzBot and RepRapDiscount.
-
-https://www.lulzbot.com/products/lulzbot-taz-single-extruder-tool-head-v2
-
-http://www.reprapdiscount.com/hotends/59-merlin-hotend-set.html
 
 #Motors
 AlephObjects uses half-height NEMA17 motors (SY42STH33-1504A) for dual-extrusion tool heads. Unfortunately, they are out of stock as of 11-8-2015 .
