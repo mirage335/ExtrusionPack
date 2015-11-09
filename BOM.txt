@@ -16,3 +16,12 @@ _Basic_
 
 -Cooling-
 2 * https://www.sparkfun.com/products/11270
+
+1 * http://www.amazon.com/Pieces-Aluminum-Cooling-Cooler-40mmx40mmx11mm/dp/B00SWOHI8S/ref=sr_1_3?ie=UTF8&qid=1447049307&sr=8-3&keywords=heatsink+40mm
+
+2 * http://www.amazon.com/30mm-25mm-Heatsink-Dissipate-Cooling/dp/B008OTKW3E/ref=sr_1_10?ie=UTF8&qid=1447049328&sr=8-10&keywords=heatsink+30mm
+
+1 * http://www.amazon.com/10pcs-Aluminum-Heatsink-Cooling-Transistor/dp/B00MJVONRY/ref=sr_1_34?ie=UTF8&qid=1447049446&sr=8-34&keywords=heatsink+30mm
+
+3 * http://www.amazon.com/Video-Graphics-Cooler-Cooling-Heatsink/dp/B00EZJZFDE/ref=sr_1_1?ie=UTF8&qid=1447049296&sr=8-1&keywords=vga+heatsink+40mm
+
