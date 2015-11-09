@@ -24,6 +24,9 @@ https://www.lulzbot.com/products/lulzbot-taz-single-extruder-tool-head-v2
 
 http://www.reprapdiscount.com/hotends/59-merlin-hotend-set.html
 
+#Motors
+AlephObjects uses half-height NEMA17 motors (SY42STH33-1504A) for dual-extrusion tool heads. Unfortunately, they are out of stock as of 11-8-2015 .
+
 #Copyright Extensions
 Files embedded into the design by mirage335 with a less restrictive license than GPLv3 place any derrived works under that license. This is definied to include any files pulled into the repository by mirage335 .
 
