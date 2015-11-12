@@ -22,6 +22,13 @@ Duet/Duex electronics with PatchRap strongly recommended.
 #Motors
 AlephObjects uses half-height NEMA17 motors (SY42STH33-1504A) for dual-extrusion tool heads. Unfortunately, they are out of stock as of 11-8-2015 . Similar motors are available from SeeMeCNC - http://seemecnc.com/collections/parts-accessories/products/nema-17-short-can-stepper-motor .
 
+#Spools
+Consider the following builds.
+
+http://www.thingiverse.com/thing:259003
+http://www.thingiverse.com/thing:83035
+http://www.thingiverse.com/thing:48856/#files
+
 #Copyright Extensions
 Files embedded into the design by mirage335 with a less restrictive license than GPLv3 place any derrived works under that license. This is definied to include any files pulled into the repository by mirage335 .
 
