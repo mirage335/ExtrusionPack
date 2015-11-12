@@ -6,7 +6,7 @@ mirage335.member.hacdc.org
 
 Extruder mounting hardware for Taz_Mega, other OpenBuilds machines, and any other machine which can accept a metal bracket. Specifically designed to accomodate LulzBot brand Gregs/Wade extruder derivatives with Hexagon or Merlin hotends.
 
-Three extruders are supported per pack. Recommended configuration is as follows.
+Four extruders are supported per pack. Recommended configuration is as follows.
 
 Exotic materials.	1 * FlexyStruder, Hexagon, 0.5mm nozzle
 Support/Infill.		1 * Gregs/Wade LulzBot Variant, Hexagon, 1mm nozzle (manually drilled)
