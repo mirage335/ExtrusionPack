@@ -29,6 +29,9 @@ http://www.thingiverse.com/thing:259003
 http://www.thingiverse.com/thing:83035
 http://www.thingiverse.com/thing:48856/#files
 
+#Shims
+Groovemount shim DXFs are available, and can be ordered from eMachineShop at <$3/shim in quantities >50. More cheaply, shim stock or even aluminum foil can be used instead.
+
 #Copyright Extensions
 Files embedded into the design by mirage335 with a less restrictive license than GPLv3 place any derrived works under that license. This is definied to include any files pulled into the repository by mirage335 .
 

@@ -1,5 +1,8 @@
 _Basic_
 
+-Generic-
+1 * http://www.amazon.com/80-20-20-2020-T-SLOTTED-EXTRUSION/dp/B001F0I3F8/ref=sr_1_1?ie=UTF8&qid=1440118460&sr=8-1&keywords=8020+20+series+610mm
+
 -Extruders-
 1 * Flexystruder - https://www.lulzbot.com/products/lulzbot-taz-flexystruder-tool-head-v2
 2 * Normal - https://www.lulzbot.com/products/lulzbot-taz-single-extruder-tool-head-v2
@@ -38,3 +41,6 @@ _Basic_
 1 * Skate Bearings - http://www.amazon.com/Bearing-Shielded-8x22x7-Miniature-Bearings/dp/B002BBICBK
 8 * Corner Brakcets - http://openbuildspartstore.com/cast-corner-bracket/
 1 * http://www.amazon.com/80-20-20-2020-T-SLOTTED-EXTRUSION/dp/B001F0I3F8/ref=sr_1_1?ie=UTF8&qid=1440118460&sr=8-1&keywords=8020+20+series+610mm
+
+-Shims-
+1 * 5 mil Shim Stock - http://www.amazon.com/dp/B005I5CPVY/
