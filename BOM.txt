@@ -1,3 +1,8 @@
+_Carriage_
+2 * http://openbuildspartstore.com/v-slot-gantry-plates/
+6 * http://openbuildspartstore.com/xtreme-solid-v-wheel-kit/
+1 * http://openbuildspartstore.com/anti-backlash-nut-block-for-8mm-metric-acme-lead-screw/
+
 _Basic_
 
 -Generic-
