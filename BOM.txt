@@ -3,6 +3,12 @@ _Carriage_
 6 * http://openbuildspartstore.com/xtreme-solid-v-wheel-kit/
 1 * http://openbuildspartstore.com/anti-backlash-nut-block-for-8mm-metric-acme-lead-screw/
 
+3 * http://openbuildspartstore.com/eccentric-spacer/
+6 * M5x35mm - http://openbuildspartstore.com/low-profile-screws-m5/
+6 * http://openbuildspartstore.com/precision-shim-10x5x1mm/
+
+6 * https://www.fastenal.com/products/details/0141487
+
 _Basic_
 
 -Generic-
